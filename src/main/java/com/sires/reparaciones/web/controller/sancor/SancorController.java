@@ -4,4 +4,5 @@ public class SancorController
 {
     private String apellido="";
     private String telefono="";
+    private String nombre="";
 }
